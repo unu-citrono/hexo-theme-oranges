@@ -142,28 +142,28 @@ footer:
     -
       name: github
       icon: github
-      path: https://github.com/zchengsite/hexo-theme-oranges
+      path: https://github.com/unu-citrono/unu-citrono.github.io
     -
       name: email
-      icon: envelope
+      icon: i@yunjiao.wang
       path: 
     -
-      name: facebook
-      icon: facebooksquare
-      path:
-    -
-      name: twitter
-      icon: twitter
-      path:
-    -
-      name: wechat
-      icon: wechat
-      path:
-    -
-      name: weibo
-      icon: weibo
-      path:
-    -
+    #   name: facebook
+    #   icon: facebooksquare
+    #   path:
+    # -
+    #   name: twitter
+    #   icon: twitter
+    #   path:
+    # -
+    #   name: wechat
+    #   icon: wechat
+    #   path:
+    # -
+    #   name: weibo
+    #   icon: weibo
+    #   path:
+    # -
       # rss需安装 hexo-generator-feed 插件
       # 具体参照https://github.com/hexojs/hexo-generator-feed
       name: rss
@@ -188,11 +188,11 @@ colorSwitch:
   enable: true
 
 # 文章分享
-postShare:
-  enable: true
+# postShare:
+#   enable: true
 
-  twitter:
-    enable: true
+#   twitter:
+#     enable: true
 
-  facebook:
-    enable: true
+#   facebook:
+#     enable: true
